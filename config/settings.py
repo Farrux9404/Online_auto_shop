@@ -121,8 +121,8 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGE_CODE = 'uz'
 
 LANGUAGES = (
-    ('ru', _('Russian')),
     ('uz', _('Uzbek')),
+    ('ru', _('Russian')),
 )
 
 MODELTRANSLATION_DEFAULT_LANGUAGE = 'uz'
